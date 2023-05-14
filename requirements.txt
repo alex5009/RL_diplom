@@ -1,0 +1,7 @@
+alpaca-trade-api
+ptan
+scipy
+gym==0.10.9
+opencv-python
+mysql-connector-python==8.0.27
+torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
